@@ -1,64 +1,9 @@
-h2:hover
+#title
 {
-    color: red;
+    color: rgb(178, 128, 9);
 }
 
-h2[class=subtitle]
+.subtitle
 {
-    color: blue;
-}
-
-#services
-{
-    color: green;
-}
-
-/* li:only-child
-{
-    color: purple;
-} */
-
-td:only-child
-{
-    color:burlywood;
-}
-
-/* #google-link:link
-{
-    color:blue;
-}
-
-#google-link:visited
-{
-    color:red;
-} */
-
-h2 + a
-{
-    color:greenyellow;
-}
-
-textarea ~ button
-{
-    color:hotpink;
-}
-
-ul > li 
-{
-    color:orange;
-}
-
-ol > li
-{
-    color:rgb(24, 82, 24);
-}
-
-img[src*="../img/"]
-{
-    border: 10px solid black;
-}
-
-h2[class|=article-subtitle]
-{
-    background: pink;
+    color: rgb(219, 168, 50);
 }
