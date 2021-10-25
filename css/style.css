@@ -1,4 +1,14 @@
-body
+.title
 {
-    background: red
+    color: red
+}
+
+.subtitle
+{
+    color: blue
+}
+
+#contact-us
+{
+    color: green
 }
