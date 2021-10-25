@@ -3,18 +3,19 @@ body
     background: rgba(204, 229, 255, 0.4);
     font-size: 1.15em;
     text-align: justify;
-    font-family: "Arial", sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 #title
 {
     color: rgb(178, 128, 9);
-    font-weight: 400;
+    font-family: "Zen Kaku Gothic Antique", sans-serif;
 }
 
 .subtitle
 {
     color: rgb(200, 148, 30);
+    font-family: "Zen Kaku Gothic Antique", sans-serif;
 }
 
 #service-image
