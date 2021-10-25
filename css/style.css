@@ -1,3 +1,8 @@
+body
+{
+    background: rgb(204, 229, 255);
+}
+
 #title
 {
     color: rgb(178, 128, 9);
@@ -5,5 +10,5 @@
 
 .subtitle
 {
-    color: rgb(219, 168, 50);
+    color: rgb(200, 148, 30);
 }
