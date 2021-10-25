@@ -3,6 +3,7 @@ body
     background: rgba(204, 229, 255, 0.4);
     font-size: 1.15em;
     text-align: justify;
+    font-family: "Arial", sans-serif;
 }
 
 #title
