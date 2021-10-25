@@ -17,7 +17,7 @@ body
 {
     height: 400px;
     width: 70%;
-    background: url("../img/img-2.jpg");
-    background-size: cover;
-    background-color: red;
+    /* background: linear-gradient(232deg, rgb(94, 255, 126), rgba(94, 255, 126, 0)); */
+    background: radial-gradient(circle, rgb(94, 255, 126), rgba(94, 255, 126, 0))
+    /* background-size: cover; */
 }
