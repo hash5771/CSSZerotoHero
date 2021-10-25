@@ -1,6 +1,7 @@
 body
 {
     background: rgba(204, 229, 255, 0.4);
+    font-size: 1.2em;
 }
 
 #title
@@ -16,8 +17,7 @@ body
 #service-image
 {
     height: 400px;
-    width: 70%;
-    /* background: linear-gradient(232deg, rgb(94, 255, 126), rgba(94, 255, 126, 0)); */
+    width: 70vw;
+
     background: radial-gradient(circle, rgb(94, 255, 126), rgba(94, 255, 126, 0))
-    /* background-size: cover; */
 }
