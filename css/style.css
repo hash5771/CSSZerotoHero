@@ -21,7 +21,7 @@ body
 #service-image
 {
     height: 400px;
-    width: 70vw;
+    width: 50vw;
 
     background: radial-gradient(circle, rgb(94, 255, 126), rgba(94, 255, 126, 0))
 }
@@ -34,4 +34,16 @@ body
 .italics
 {
     font-style: italic;
+}
+
+#image-one
+{
+    height: 400px;
+    width: 50vw;
+}
+
+#image-two
+{
+    height: 400px;
+    width: 50vw;
 }
